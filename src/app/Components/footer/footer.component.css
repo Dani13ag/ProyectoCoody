@@ -1,0 +1,19 @@
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #333366;
+    color: white;
+    text-align: center;
+    height: 60px;
+    margin-left: 100%;
+}
+
+.row{
+    margin: 0% !important;
+}
+
+.letra{
+    margin-top: 12px;
+}

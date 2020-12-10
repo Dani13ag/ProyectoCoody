@@ -1,0 +1,104 @@
+/* carrusel */
+.height-carousel {
+    max-height: 600px;
+    min-width: 100%;
+}
+
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+
+.modal-body{
+    padding: 5%;
+}
+
+.botonCentrar{
+    margin-left: 30%;
+}
+
+.btn-primary {
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    width: 120px;
+    border-color: white;
+    background: linear-gradient(180deg, #32c953d5 0%, #46c7d8c4 100%);
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    justify-content: center;
+}
+.botonCentrar{
+    margin-left: 30%;
+}
+
+.wave {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.texto-encima {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    height: 500px;    
+}
+.letras-slaide{
+    font-size: 40px;
+}
+.btn-primarys2 {    
+    text-align: center;    
+    width: 220px;
+    border:2px solid #17c3d6c4 ;
+    color: rgba(0, 0, 0, 0.589);
+    font-weight: bold;
+    padding: 10px;
+    transition:all .5s ease;
+}
+.btn-primarys2:hover {
+    color: #264a4ed7;
+    font-weight: bold;
+    background-color: rgba(177, 221, 247, 0.483);
+    border-color: transparent;
+}
+.btn-primarys {    
+    text-align: center;    
+    width: 220px;
+    border:2px solid #17c3d6c4 ;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    transition:all .5s ease;
+}
+.btn-primarys:hover {
+    color: #264a4ec1;
+    font-weight: bold;
+    background-color: rgba(255, 255, 255, 0.483);
+    border-color: transparent;
+}
+.card-body{
+    text-align: center;
+}
+.card-bodys{
+    text-align: center;
+    padding: 8%;
+}
+
+.galeria-port {
+    margin-top: 3%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.jumbotron{
+    margin-top: 5%;
+    padding: 5%;
+
+}
+.seconmodal{
+    margin-left: 30%;
+}

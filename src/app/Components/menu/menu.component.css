@@ -1,0 +1,19 @@
+.bg-pink{
+  background-color: #333366;
+}
+
+.letracolor{
+  color: white;
+}
+
+.btn-primary{
+  text-align: center;
+  text-decoration: none;
+  width: 120px;
+  border-color: white;
+  background: linear-gradient(180deg, #32c953d5 0%, #46c7d8c4 100%);
+  color: white;
+  font-weight: bold;
+  padding: 5px;
+  justify-content: center;
+}
